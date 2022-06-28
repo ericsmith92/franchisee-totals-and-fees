@@ -1,0 +1,8 @@
+query SalesForm {
+  locations {
+    ...LOCATION_FRAG
+  }
+  franchisees {
+    ...FRANCHISEE_FRAG
+  }
+}

@@ -1,0 +1,8 @@
+query Franchisee($id: String!) {
+  franchisee(id: $id) {
+    id
+    first_name
+    last_name
+    location_ids
+  }
+}

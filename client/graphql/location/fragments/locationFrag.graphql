@@ -1,0 +1,4 @@
+fragment LOCATION_FRAG on Location {
+  id
+  address
+}

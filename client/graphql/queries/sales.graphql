@@ -1,0 +1,21 @@
+query Sales(
+  $searchFilter: String!
+  $date: String!
+  $locationIds: [String!]
+  $franchiseeId: String
+) {
+  sale(
+    searchFilter: $searchFilter
+    date: $date
+    location_ids: $locationIds
+    franchisee_id: $franchiseeId
+  ) {
+    id
+    date
+    tax
+    subtotal
+    total
+    franchisee_id
+    location_id
+  }
+}

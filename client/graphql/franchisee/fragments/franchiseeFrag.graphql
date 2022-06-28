@@ -1,0 +1,5 @@
+fragment FRANCHISEE_FRAG on Franchisee {
+  id
+  first_name
+  last_name
+}

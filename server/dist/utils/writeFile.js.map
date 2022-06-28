@@ -1,0 +1,1 @@
+{"version":3,"file":"writeFile.js","sourceRoot":"","sources":["../../src/utils/writeFile.ts"],"names":[],"mappings":";;;;;;AAAA,4CAAmB;AACnB,gDAAuB;AAEhB,KAAK,UAAU,SAAS,CAAC,IAAa;IAC3C,YAAE,CAAC,aAAa,CAAC,cAAI,CAAC,IAAI,CAAC,SAAS,EAAE,mBAAmB,CAAC,EAAE,IAAI,CAAC,SAAS,CAAC,IAAI,CAAC,CAAC,CAAC;IAElF,OAAO,IAAI,CAAA;AACb,CAAC;AAJD,8BAIC"}
