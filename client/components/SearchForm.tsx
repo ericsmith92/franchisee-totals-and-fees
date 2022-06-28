@@ -89,7 +89,7 @@ const SelectForm: React.FC<SelectFormProps> = (props) => {
 
       if (!results?.data?.sale?.length) {
         setNoResultsMessage(
-          `No reults returned for specified ${watchSearchFilter} on specified date.`
+          `No results returned for specified ${watchSearchFilter} on specified date.`
         );
       }
     } catch (err) {
